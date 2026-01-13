@@ -1,7 +1,9 @@
-streamlit>=1.31.0
-requests>=2.31.0
-beautifulsoup4>=4.12.0
-transformers>=4.36.0
-torch>=2.5.0
-sentencepiece>=0.1.99
-accelerate>=0.20.0
+streamlit
+beautifulsoup4
+requests
+transformers
+torch
+sentencepiece
+accelerate
+lxml
+html5lib
